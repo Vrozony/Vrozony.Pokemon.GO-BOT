@@ -1,0 +1,1 @@
+# Vrozony.Pokemon.GO-BOT
